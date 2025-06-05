@@ -1,0 +1,5 @@
+.act {
+    display:flex;
+    background-color:black;
+    border:2px solid rgb(60, 55, 55);
+}
