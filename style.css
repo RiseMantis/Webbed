@@ -1,6 +1,8 @@
 .container {
     border: 4px solid black;
     background-color:#8a0303;
+    margin: auto;
+    width:800px;
     display:flex;
     flex-direction:column;
     padding:0.5em;
